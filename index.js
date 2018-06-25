@@ -45,3 +45,10 @@ function makeInt(n){
   c = parseInt(n, 10); 
   return c
 }
+
+fuction preserveDecimal(n)
+{ var c;
+  c = parseFloat(n);
+  return c
+  
+}
